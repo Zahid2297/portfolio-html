@@ -1,4 +1,4 @@
-# portfolio-html
+<img width="2620" height="1676" alt="image" src="https://github.com/user-attachments/assets/a7f4502b-7cf6-4c50-8416-773e5ec267c6" /># portfolio-html
 
 This is a single page portfolio website built using pure HTML.
 
@@ -22,8 +22,8 @@ This is a single page portfolio website built using pure HTML.
 - Use the navigation links to jump between sections
 - Scroll through the page to view profile, skills, projects, and contact details
 
+## Live Demo
+https://zahid2297.github.io/portfolio-html/
+
 ## Screenshots
 ![Single page portfolio](portfoliohtml.png)
-
-## Live Demo
-(Add GitHub Pages or deployed link here if available)

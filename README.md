@@ -1,4 +1,4 @@
-<img width="2620" height="1676" alt="image" src="https://github.com/user-attachments/assets/a7f4502b-7cf6-4c50-8416-773e5ec267c6" /># portfolio-html
+# portfolio-html
 
 This is a single page portfolio website built using pure HTML.
 

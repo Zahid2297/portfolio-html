@@ -23,7 +23,7 @@ This is a single page portfolio website built using pure HTML.
 - Scroll through the page to view profile, skills, projects, and contact details
 
 ## Screenshots
-(Add screenshots of the website here)
+![Single page portfolio](portfoliohtml.png)
 
 ## Live Demo
 (Add GitHub Pages or deployed link here if available)
